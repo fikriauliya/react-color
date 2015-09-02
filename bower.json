@@ -1,0 +1,32 @@
+{
+  "name": "react-color",
+  "version": "1.0.5",
+  "homepage": "https://github.com/fikriauliya/react-color",
+  "authors": [
+    "case <case@casesandberg.com>"
+  ],
+  "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
+  "main": "build/bundle.js",
+  "keywords": [
+    "react",
+    "color",
+    "picker",
+    "react-component",
+    "colorpicker",
+    "picker",
+    "sketch",
+    "chrome",
+    "photoshop",
+    "material",
+    "design",
+    "popup"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
